@@ -7,7 +7,6 @@ We're trying to make an adaptive chatbot framework utilizing Large Language Mode
 - **Modular Plugin System**: Supports dynamic loading/unloading of plugins at runtime.
 - **LLM Integration**: Works with multiple models via an adapter pattern.
 - **Encapsulation & Polymorphism**: Ensures scalability and maintainability.
-- **Performance Benchmarking**: Evaluates efficiency against existing frameworks like LangChain.
 
 ## Installation
 1. Clone the repository:
@@ -18,14 +17,6 @@ We're trying to make an adaptive chatbot framework utilizing Large Language Mode
    ```sh
    cd modular_llm
    ```
-3. Install dependencies (if applicable).
-
-## Usage
-1. Run the chatbot engine:
-   ```sh
-   java -jar chatbot.jar
-   ```
-2. Add or remove plugins dynamically via the plugin manager.
 
 ## Contributors
 - **Girish Jeswani**
