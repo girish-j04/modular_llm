@@ -1,4 +1,3 @@
-
 package org.modular_llm;
 
 public interface Plugin {
